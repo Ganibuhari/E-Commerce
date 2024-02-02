@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Kelapa parut putih",
+        "price":4,
+        "description":"Fresh coconut",
+        "ratings":4.9,
+        "images": [
+            {
+                "image":"sample"
+            }
+        ],
+        "category": "Food",
+        "seller": "Kelapa parut Brunei",
+        "stock": "100",
+        "numOfReviews":0,
+        "reviews": []
+    },
+    {
+        "name" : "Kelapa parut biasa",
+        "price":3.5,
+        "description":"Fresh coconut",
+        "ratings":4.9,
+        "images": [
+            {
+                "image":"sample"
+            }
+        ],
+        "category": "Food",
+        "seller": "Kelapa parut Brunei",
+        "stock": "100",
+        "numOfReviews":0,
+        "reviews": []
+    }
+]
